@@ -1,3 +1,5 @@
+require pry
+
 def new_hash
  brand_new_hash = {}
 end
